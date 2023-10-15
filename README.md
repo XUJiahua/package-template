@@ -3,6 +3,7 @@
 ![https://github.com/napi-rs/package-template/actions](https://github.com/napi-rs/package-template/workflows/CI/badge.svg)
 
 > Template project for writing node packages with napi-rs.
+> 
 
 # Usage
 
